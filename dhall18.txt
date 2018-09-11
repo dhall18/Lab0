@@ -1,0 +1,5 @@
+Torque is unaffected by the length of the lever arm.
+
+The cross product of two vectors points into the plane.
+
+In projectile motion, acceleration is constant in both x and y components.
