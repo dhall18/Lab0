@@ -1,0 +1,22 @@
+// Prog12Results.txt
+// Daniel Hall
+// COSC 1030, Section 12
+// Programming Assignment 12
+// April 20, 2018
+
+The unsorted shapes are as follows:
+(1) square with perimeter 8
+(2) circle with perimeter 18.8496
+(3) eqtriangle with perimeter 4.5
+// Side length given to the constructor was 1.5. Perimeter of an equilateral triangle is P = 3(side length). In this case, P = 3(1.5) => P = 4.5, therefore the class is functioning correctly.
+(4) square with perimeter 4
+(5) eqtriangle with perimeter 6
+// Side length given to the constructor was 1.5. Perimeter of an equilateral triangle is P = 3(side length). In this case, P = 3(2) => P = 6, therefore the class is functioning correctly.
+
+The shape list, sorted by area, is as follows:
+(1) square with perimeter 4
+(2) eqtriangle with perimeter 4.5
+(3) eqtriangle with perimeter 6
+(4) square with perimeter 8
+(5) circle with perimeter 18.8496
+// The perimeters are sorted correctly from least to greatest, therefore the comparePerimeters method and sort() function are working properly.
